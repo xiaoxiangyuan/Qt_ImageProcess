@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Resources/save.png</file>
+    <file>Resources/color_gray.png</file>
+    <file>Resources/equalization.png</file>
+    <file>Resources/gamma.png</file>
+    <file>Resources/histogram.png</file>
+    <file>Resources/linetransform.png</file>
+    <file>Resources/loadpic.png</file>
+    <file>Resources/logTransform.png</file>
+    <file>Resources/normlization.png</file>
+    <file>Resources/subsection.png</file>
+    <file>Resources/threshold.png</file>
+  </qresource>
+</RCC>
