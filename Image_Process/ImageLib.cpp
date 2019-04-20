@@ -84,3 +84,9 @@ void CImageLib::GetBmpData(BYTE* bmpData)
 	int LineByte = (m_uBmpWidth * m_uBmpBit / 8 + 3) / 4 * 4;
 	memcpy(bmpData, m_lpBmpData, LineByte * m_uBmpHeight);
 }
+
+bool	CImageLib::SaveBmp(const char* fileName)
+{
+
+	return true;
+}
